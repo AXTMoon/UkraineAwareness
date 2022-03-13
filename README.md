@@ -10,3 +10,5 @@ https://axtmoon.github.io/UkraineInfo/
 
 A community run website for providing an uncensored new source for Russians who want to know the truth about what there country is doing in the Ukrainian war aswell as a place to find the latest news on the situaition from the comunity 🇺🇦Stand with ukraine🇺🇦
 
+## help us reach our goal of informing people
+https://github.com/AXTMoon/UkraineInfo/milestones
